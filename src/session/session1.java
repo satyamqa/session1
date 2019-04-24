@@ -12,6 +12,8 @@ public class session1 {
 		System.out.println("line no 10 in wsp2");
 		
 		System.out.println("line no 14 in wsp2");
+		
+		System.out.println("line no 14 in wsp2");
 
 
 	}
