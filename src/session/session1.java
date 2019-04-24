@@ -6,6 +6,8 @@ public class session1 {
     
 		System.out.println("Welcome to the git6");
 		
+		System.out.println("line no8 in wsp2");
+		
 		
 
 	}
